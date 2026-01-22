@@ -18,6 +18,7 @@ A comprehensive Laravel-based platform designed to bridge the gap between blood 
 
 ## 🛠 Database Architecture (ERD)
 
+
 The database is designed for scalability and efficiency. Key tables include:
 
 * **Users:** Stores registered members and their authentication details.
@@ -52,4 +53,5 @@ The database is designed for scalability and efficiency. Key tables include:
 video link:
 https://drive.google.com/file/d/1VN9JkbbO-D4iGn0QAVi3rMwkGSeIWh7C/view?usp=drive_link
 
+<img width="1385" height="730" alt="Er_diagram" src="https://github.com/user-attachments/assets/f1262a74-d67f-4611-80fe-3c4b07324d28" />
 
